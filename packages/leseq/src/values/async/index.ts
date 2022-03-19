@@ -2,4 +2,8 @@ export { everyAsync } from './everyAsync';
 export { someAsync } from './someAsync';
 export { findAsync } from './findAsync';
 export { findOrDefaultAsync } from './findOrDefaultAsync';
+export { firstAsync } from './firstAsync';
+export { firstOrDefaultAsync } from './firstOrDefaultAsync';
+export { lastAsync } from './lastAsync';
+export { lastOrDefaultAsync } from './lastOrDefaultAsync';
 export { reduceAsync } from './reduceAsync';
